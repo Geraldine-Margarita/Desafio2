@@ -1,0 +1,85 @@
+.header{
+    width: auto;
+    height: 50px;
+    padding: 200px;
+    font-size: 40px;
+    margin-left: 140px;
+    margin-right: 140px;
+    background-color: aquamarine;
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+    url(imgs\5615253.jpg);
+    color: black;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.header h1{
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 1px;
+    margin-top: -100px;
+}
+.header p{
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 1px;
+    margin-top: -10px;
+}
+.header img{
+    background-size: left;
+    background-position: left;
+    text-align: left;
+    margin-left: -500px;
+    margin-right: 2px;
+    margin-top: -1000px;
+    padding: 0;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+        .edificios {
+        width: 90px;
+        margin: auto;
+        font-size: x-large;
+        
+        }
+        .edificios {
+            width: 75.6%;
+            margin: auto;
+            }
+            .edificios td {
+            width: 30%;
+            padding: 2px;
+            background-size: cover;
+            background-position: center;
+            text-align: center;
+            margin-left: -100px;
+            margin-right: 1px;
+            margin-top: -100px;
+            }
+            .edificios img {
+            width: 250px;
+            border: solid 2px #dddddd;
+            
+            }
+           
+
+            .footer {
+                width: auto;
+                padding: 15px;
+                margin-left: 140px;
+                margin-right: 140px;
+                height: 45px;
+                font-weight: 100px;
+                font-size: 40px;
+                line-height: 50px;
+                background-color: rgb(62, 201, 239);
+                color: black;
+                text-align: center;
+                font-weight: 100px;
+                }
